@@ -1,0 +1,68 @@
+[
+  {
+    "question": "What’s the first thing you should do when you need motivation?",
+    "isMultipleChoice": false,
+    "answers": [
+      {
+        "answer": "Read a book",
+        "points": 5
+      },
+      {
+        "answer": "Watch social media",
+        "points": 0
+      },
+      {
+        "answer": "Go to the gym",
+        "points": 3
+      },
+      {
+        "answer": "Run in the park",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "question": "When was Capsim Founded?",
+    "isMultipleChoice": false,
+    "answers": [
+      {
+        "answer": "August 2010",
+        "points": 0
+      },
+      {
+        "answer": "April 1990",
+        "points": 0
+      },
+      {
+        "answer": "December 2000",
+        "points": 0
+      },
+      {
+        "answer": "January 1985",
+        "points": 1
+      }
+    ]
+  },
+  {
+    "question": "Which of the following are Capsim products?",
+    "isMultipleChoice": true,
+    "answers": [
+      {
+        "answer": "CapsimInbox",
+        "points": 1
+      },
+      {
+        "answer": "ModXM",
+        "points": 1
+      },
+      {
+        "answer": "CapsimOutbox",
+        "points": 0
+      },
+      {
+        "answer": "CompXM",
+        "points": 1
+      }
+    ]
+  }
+]
